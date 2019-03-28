@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 //This servlet is called from ServletSample1.jsp page through servlet mapping from web.xml 
 
 
+
 public class ServletSample1 extends HttpServlet {
 	
 	 private String message;
