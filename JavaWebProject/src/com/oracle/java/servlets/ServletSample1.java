@@ -12,6 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 
+
 public class ServletSample1 extends HttpServlet {
 	
 	 private String message;
